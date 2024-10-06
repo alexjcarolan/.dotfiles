@@ -10,4 +10,6 @@
 3. `sh setup.sh`
 
 ## Improvements
-- `brew install lunarvim/spacemacs`
+- Install alacritty
+- Add alacritty dotfile
+- Install lunarvim/spacemacs
